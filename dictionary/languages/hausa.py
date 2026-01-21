@@ -1,4 +1,4 @@
-hausa_dictionary = {
+translations = {
     "hello": "sannu",
     "good": "mai kyau",
     "morning": "safiya",
@@ -30,3 +30,4 @@ hausa_dictionary = {
     "thank": "na gode",
     "yes": "eh"
 }
+
