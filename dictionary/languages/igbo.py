@@ -1,5 +1,4 @@
-
-english_to_igbo = {
+transitions = {
     "hello": "ndewo",
     "hi": "ndeewo",
     "good morning": "ututu oma",
@@ -31,3 +30,4 @@ english_to_igbo = {
     "work": "oru",
     "sleep": "ura"
 }
+
